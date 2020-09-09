@@ -7,3 +7,4 @@ dj-static
 static3
 gunicorn
 django-crispy-forms
+pillow
